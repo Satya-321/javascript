@@ -1,0 +1,16 @@
+{
+	"details": {
+		"name": "P.Satya Sowjanya",
+		"number": "18NM1A05B4",
+		"email": "satyasowjanya@gmail.com",
+		"static": "Static"
+
+	},
+	"details2": {
+		"name": "P.Devi",
+		"number": "345443665",
+		"email": "devi.p@gmail.com",
+		"dynamic": "Dynamic"
+
+	}
+}

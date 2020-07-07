@@ -1,0 +1,51 @@
+{
+	"details":{
+		"name":"P.Satya Sowjanya",
+		"email":"satyasowjanyapenugonda321@gmail.com",
+		"number":"7668746999",
+		"Address":"visakhapatnam"
+	},
+	"careerobjective":{
+		"info":"To become software developer"
+	},
+	"educationalqualification":[
+		{
+			"institute":"vignan's institute of engineering for women",
+			"degree":"B-tech",
+			"passoutyear":"2022",
+			"percentage":"-"
+		},
+		{
+			"institute":"Dr.L.Bullayya junior college",
+			"degree":"Intermediate",
+			"passoutyear":"2018",
+			"percentage":"90%"
+		},
+		{
+			"institute":"NMC high school",
+			"degree":"SSC",
+			"passoutyear":"2016",
+			"percentage":"83%"
+		}
+	],
+
+	"technicalskills":[{
+		"title":"programming language",
+		"info":["c,c++,java,R,python"]
+	},
+{
+	"title":"Databases",
+	"info":["oracle,sql,mysql,Tinydb"]
+},
+{
+	"title":"operating systems",
+	"info":["window,linux,ubuntu,Dos"]
+}
+],
+	"achievements":[
+		{
+				"title":"Extra Curricular Activities",
+				"info":"Participated various Technical Events in college"
+		}]
+
+}
